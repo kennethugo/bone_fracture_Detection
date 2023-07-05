@@ -7,6 +7,9 @@ Training of an object detection model that detects various type of bone issues. 
 * Using YoloV5m to train a bone fracture detector on a custom dataset
 * Freezing some layers and training the other layers up to the top layers
 
+# Results
+https://colab.research.google.com/drive/1tWiJxYvKfCXfq3lnMYqX_V12qkfmwyv-#scrollTo=jrnHbdWrTELr&line=1&uniqifier=1
+
 ![screenshot](https://github.com/kennethugo/bone_fracture_Detection/assets/50516854/1dddf803-e542-4ce0-a5c4-7995d41c6cc5)
 
 # Reference 
