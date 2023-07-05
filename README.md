@@ -8,4 +8,4 @@ Training of an object detection model that detects various type of bone issues. 
 * Freezing some layers and training the other layers up to the top layers
 
 # Reference 
-OpenCv University 
+OpenCv University tutorial , roboflow.com
